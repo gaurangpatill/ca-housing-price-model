@@ -2,16 +2,17 @@
 This project involves Exploratory Data Analysis (EDA), data cleaning, and training various machine learning models to predict housing prices in California.
 
 The dataset consists of 20,640 entries and 10 variables, including:
-longitude
-latitude
-housing_median_age
-total_rooms
-total_bedrooms
-population
-households
-median_income
-median_house_value (target variable)
-ocean_proximity
+
+- `longitude`
+- `latitude`
+- `housing_median_age`
+- `total_rooms`
+- `total_bedrooms`
+- `population`
+- `households`
+- `median_income`
+- `median_house_value` *(target variable)*
+- `ocean_proximity`
 
 ---
 
